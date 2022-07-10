@@ -733,25 +733,6 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1238.jpeg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "alt": "",
-                "title": "",
-                "textTitle": "Karatê",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "Estilo Shito-Ryu | Escola Hayashi",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/img-87-2000x1500.png",
                 "active": false,
                 "showButtons": false,
@@ -767,11 +748,11 @@
                 "textTitle": "Karatê",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Estilo Shito-Ryu | Escola Hayashi",
+                "text": "Estilo Shito-Ryu | Escola Hayashi<br>Exame de Faixa Centro Olímpico Santa Maria",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/manu-grande-1-2000x1336.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/manu-filtro-1280x720.png",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
@@ -786,7 +767,7 @@
                 "textTitle": "Karatê",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Estilo Shito-Ryu | Escola Hayashi",
+                "text": "Estilo Shito-Ryu<br>Escola Hayashi<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -805,7 +786,7 @@
                 "textTitle": "Karatê",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Estilo Shito-Ryu | Escola Hayashi",
+                "text": "Estilo Shito-Ryu | Hayashi<br>Exame de Faixa Centro Olímpico Santa Maria",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
